@@ -1,0 +1,12 @@
+{
+	"project": "wplib",
+	"name": "mailhog",
+	"version": "1.0.0",
+	"majorversion": "1.0",
+	"latest": "1",
+	"ports": "-p 8025:8025 -p 1025:1025",
+	"volumes": "",
+	"args": "--restart=always",
+	"env": "MAILHOG_VERSION"
+}
+
