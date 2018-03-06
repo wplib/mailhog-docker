@@ -4,6 +4,7 @@
 	"version": "1.0.0",
 	"majorversion": "1.0",
 	"latest": "1",
+	"class": "system",
 	"network": "--network wplibbox",
 	"ports": "-p 8025:8025 -p 1025:1025",
 	"volumes": "",
