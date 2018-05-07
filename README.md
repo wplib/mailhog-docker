@@ -1,3 +1,5 @@
+![mailhog 1.0.x](https://img.shields.io/badge/mailhog-1.0.x-green.svg)
+
 ```
  __          _______  _      _ _       ____
  \ \        / /  __ \| |    (_) |     |  _ \
