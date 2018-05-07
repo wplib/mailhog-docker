@@ -14,7 +14,7 @@
 
 # MailHog Docker Container for WPLib Box
 This is the repository for the [MailHog](https://github.com/mailhog/MailHog) Docker container implemented for [WPLib-Box](https://github.com/wplib/wplib-box).
-It currently provides versions 1.0.0
+It currently provides versions 1.0.x
 
 
 ## Supported tags and respective Dockerfiles
